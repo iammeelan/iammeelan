@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on some "random" projects
+🔭 I’m currently working on some "random" projects 
 🌱 I’m currently learning ML and DL
 👯 I’m looking to collaborate on some Deep Learning projects
 🤔 I’m looking for help with ...
